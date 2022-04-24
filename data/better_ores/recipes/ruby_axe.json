@@ -1,0 +1,30 @@
+{
+  "group": "better_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "better_ores:item_ruby"
+    },
+    "1": {
+      "item": "better_ores:item_ruby"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "better_ores:item_ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "better_ores:ruby_axe",
+    "count": 1
+  }
+}

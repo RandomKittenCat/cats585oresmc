@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_ores:blocks/ruby_block",
+    "up": "better_ores:blocks/ruby_block",
+    "north": "better_ores:blocks/ruby_block",
+    "east": "better_ores:blocks/ruby_block",
+    "south": "better_ores:blocks/ruby_block",
+    "west": "better_ores:blocks/ruby_block",
+    "particle": "better_ores:blocks/ruby_block"
+  }
+}

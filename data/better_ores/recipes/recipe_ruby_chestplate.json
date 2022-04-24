@@ -1,0 +1,39 @@
+{
+  "group": "better_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_ores:item_ruby"
+    },
+    "2": {
+      "item": "better_ores:item_ruby"
+    },
+    "3": {
+      "item": "better_ores:item_ruby"
+    },
+    "4": {
+      "item": "better_ores:item_ruby"
+    },
+    "5": {
+      "item": "better_ores:item_ruby"
+    },
+    "6": {
+      "item": "better_ores:item_ruby"
+    },
+    "7": {
+      "item": "better_ores:item_ruby"
+    },
+    "8": {
+      "item": "better_ores:item_ruby"
+    }
+  },
+  "result": {
+    "item": "better_ores:ruby_armor_chestplate",
+    "count": 1
+  }
+}

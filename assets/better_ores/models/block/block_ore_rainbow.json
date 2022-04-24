@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_ores:blocks/rainbowore",
+    "up": "better_ores:blocks/rainbowore",
+    "north": "better_ores:blocks/rainbowore",
+    "east": "better_ores:blocks/rainbowore",
+    "south": "better_ores:blocks/rainbowore",
+    "west": "better_ores:blocks/rainbowore",
+    "particle": "better_ores:blocks/rainbowore"
+  }
+}

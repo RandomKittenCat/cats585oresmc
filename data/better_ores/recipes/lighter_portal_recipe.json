@@ -1,0 +1,39 @@
+{
+  "group": "better_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_ores:item_ruby"
+    },
+    "1": {
+      "item": "better_ores:item_ruby"
+    },
+    "2": {
+      "item": "better_ores:item_ruby"
+    },
+    "3": {
+      "item": "better_ores:item_ruby"
+    },
+    "5": {
+      "item": "better_ores:item_ruby"
+    },
+    "6": {
+      "item": "better_ores:item_ruby"
+    },
+    "7": {
+      "item": "better_ores:item_ruby"
+    },
+    "8": {
+      "item": "better_ores:item_ruby"
+    }
+  },
+  "result": {
+    "item": "better_ores:new_dimension",
+    "count": 1
+  }
+}

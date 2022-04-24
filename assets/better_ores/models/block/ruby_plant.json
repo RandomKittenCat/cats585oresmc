@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "better_ores:blocks/ruby_block",
+    "particle": "better_ores:blocks/ruby_block"
+  }
+}
