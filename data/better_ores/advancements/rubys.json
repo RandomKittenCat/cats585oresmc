@@ -19,15 +19,15 @@
     "rubys": {
       "trigger": "minecraft:item_durability_changed",
       "conditions": {
-        "items": [
-          {
-            "item": "better_ores:block_ore_ruby",
-            "durability": {
-              "min": 0,
-              "max": 16000
-            }
+        "item": {
+          "items": [
+            "better_ores:block_ore_ruby"
+          ],
+          "durability": {
+            "min": 0,
+            "max": 16000
           }
-        ]
+        }
       }
     }
   },

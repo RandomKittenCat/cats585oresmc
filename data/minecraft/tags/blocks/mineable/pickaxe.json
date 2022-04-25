@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "better_ores:block_ore_rainbow",
+    "better_ores:block_ore_jitter",
+    "better_ores:block_ore_red_eye",
+    "better_ores:block_sky_clay",
+    "better_ores:ruby_block"
+  ]
+}
